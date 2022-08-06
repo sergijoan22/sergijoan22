@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sergijoan22
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning about data
+Hi
 
 <!---
 sergijoan22/sergijoan22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
